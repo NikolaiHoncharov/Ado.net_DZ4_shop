@@ -1,0 +1,9 @@
+c:\users\nikc\documents\visual studio 2015\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\Debug\Shop.pdb
